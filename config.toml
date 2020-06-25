@@ -5,6 +5,10 @@ summaryLength = "10"
 theme = "parsa"
 title = "Hugo Parsa Forestry Starter"
 [[menu.main]]
+name = "Performance Garten "
+url = "https://performancegarten.de"
+weight = 4
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 2

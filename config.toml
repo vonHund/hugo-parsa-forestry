@@ -3,19 +3,15 @@ languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
 theme = "parsa"
-title = "Hugo Parsa Forestry Starter"
-[[menu.main]]
-name = "Performance Garten "
-url = "https://performancegarten.de"
-weight = 4
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 2
+title = "vonHund"
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 1
+weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]

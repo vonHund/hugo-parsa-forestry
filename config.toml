@@ -5,6 +5,10 @@ summaryLength = "10"
 theme = "parsa"
 title = "vonHund"
 [[menu.main]]
+URL = "performance"
+name = "Performance"
+weight = "1"
+[[menu.main]]
 URL = "audio"
 name = "Audio"
 weight = "3"
@@ -13,17 +17,13 @@ URL = "video"
 name = "Video"
 weight = "2"
 [[menu.main]]
-URL = "performance"
-name = "Performance"
-weight = "1"
+URL = "about"
+name = "About"
+weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 3
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]

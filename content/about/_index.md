@@ -1,7 +1,7 @@
 ---
 title: ''
 date: 
-description: This is meta description
+description: ''
 image: ''
 
 ---

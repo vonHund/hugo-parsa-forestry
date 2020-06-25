@@ -1,5 +1,5 @@
 ---
-title: About
+title: ''
 date: 
 description: This is meta description
 image: ''

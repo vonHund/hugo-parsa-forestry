@@ -35,9 +35,9 @@ mobile = ""
 preloader = true
 search = false
 [params.instafeed]
-access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
+access_token = ""
 enable = true
-user_id = "4044026246"
+user_id = "3463575825"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]

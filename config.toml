@@ -23,7 +23,7 @@ weight = "4"
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 3
+weight = "5"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]

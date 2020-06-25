@@ -5,7 +5,11 @@ summaryLength = "10"
 theme = "parsa"
 title = "vonHund"
 [[menu.main]]
-URL = "/video"
+URL = "audio"
+name = "Audio"
+weight = "3"
+[[menu.main]]
+URL = "video"
 name = "Video"
 weight = "2"
 [[menu.main]]

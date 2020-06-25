@@ -9,6 +9,8 @@ sections:
   label: Audio
   create: all
   match: "**/*"
+  templates:
+  - audio_vorlage
 - type: directory
   path: content/video
   label: Video

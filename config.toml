@@ -5,13 +5,25 @@ summaryLength = "10"
 theme = "parsa"
 title = "vonHund"
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 2
+URL = "performance"
+name = "Performance"
+weight = "1"
+[[menu.main]]
+URL = "audio"
+name = "Audio"
+weight = "3"
+[[menu.main]]
+URL = "video"
+name = "Video"
+weight = "2"
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 1
+weight = "4"
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = "5"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -26,7 +38,7 @@ email = "exmaple@ymail.com"
 google_analitycs_id = "Your ID"
 home = "works"
 layout = "1"
-logo = "/images/logokto.png"
+logo = "/images/logokto_klein.png"
 mobile = ""
 preloader = true
 search = false

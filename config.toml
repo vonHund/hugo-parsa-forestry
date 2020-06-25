@@ -42,6 +42,7 @@ logo = "/images/okto-1.png"
 mobile = ""
 preloader = true
 search = false
+social = []
 [params.instafeed]
 access_token = ""
 enable = false
@@ -72,6 +73,3 @@ link = "plugins/smooth-scroll/smooth-scroll.js"
 link = "plugins/search/fuse.min.js"
 [[params.plugins.js]]
 link = "plugins/search/mark.js"
-[[params.social]]
-URL = "https://www.instagram.com/vonhund/"
-icon = "Instagram"

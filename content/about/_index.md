@@ -8,6 +8,5 @@ text: Raphael Di Canio (*1990 in Köln, DE) arbeitet als Kunst- und Deutschlehre
   Zudem ist er Mitglied des Kölner Kunstkollektivs Eintagsfliege und des Performance-Duos
   einfachzwei. In seinen Arbeiten beschäftigt er sich überwiegend mit Performance,
   Sound, Film und Text.
-draft: true
 
 ---

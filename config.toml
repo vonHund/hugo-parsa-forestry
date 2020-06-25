@@ -2,16 +2,28 @@ baseURL = "/"
 languageCode = ""
 paginate = 6
 summaryLength = "10"
-theme = "Okto"
+theme = "parsa"
 title = "vonHund"
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 2
+URL = "performance"
+name = "Performance"
+weight = "1"
+[[menu.main]]
+URL = "audio"
+name = "Audio"
+weight = "3"
+[[menu.main]]
+URL = "video"
+name = "Video"
+weight = "2"
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 1
+weight = 2
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]

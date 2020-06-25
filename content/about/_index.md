@@ -1,5 +1,5 @@
 ---
-title: about
+title: ''
 date: 
 description: ''
 image: images/hai.png

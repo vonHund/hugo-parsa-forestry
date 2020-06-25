@@ -2,7 +2,7 @@
 title: about
 date: 
 description: ''
-image: "/images/hai.png"
+image: images/hai.png
 text: about
 
 ---

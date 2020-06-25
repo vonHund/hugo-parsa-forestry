@@ -20,7 +20,7 @@ weight = 2
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "bla"
-author = "Themefisher"
+author = "Raphael Di Canio "
 author_image = "images/banner-img.png"
 bio = "blabla"
 contact_form_action = "#"

@@ -32,11 +32,11 @@ home = "Home"
 layout = "1"
 logo = "images/logo.png"
 mobile = ""
-preloader = false
+preloader = true
 search = false
 [params.instafeed]
 access_token = ""
-enable = true
+enable = false
 user_id = "3463575825"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"

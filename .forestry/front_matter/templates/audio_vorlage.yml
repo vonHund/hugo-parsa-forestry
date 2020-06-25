@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: text
+pages:
+- content/audio/Test.md

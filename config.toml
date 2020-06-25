@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
-theme = "parsa"
+theme = "Okto"
 title = "vonHund"
 [[menu.main]]
 URL = "performance"

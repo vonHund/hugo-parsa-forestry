@@ -1,4 +1,9 @@
 ---
 label: audio_Vorlage
 hide_body: false
-fields: []
+fields:
+- name: text
+  type: text
+  config:
+    required: false
+  label: text

@@ -1,0 +1,9 @@
+---
+label: about_Vorlage
+hide_body: false
+fields:
+- name: text
+  type: text
+  config:
+    required: false
+  label: Text

@@ -72,8 +72,6 @@ link = "plugins/smooth-scroll/smooth-scroll.js"
 link = "plugins/search/fuse.min.js"
 [[params.plugins.js]]
 link = "plugins/search/mark.js"
-[[params.plugins.js]]
-link = "plugins/search/search.js"
 [[params.social]]
 URL = "https://www.instagram.com/vonhund/"
 icon = "Instagram"

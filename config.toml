@@ -5,25 +5,17 @@ summaryLength = "10"
 theme = "parsa"
 title = "vonHund"
 [[menu.main]]
-URL = "performance"
-name = "Performance"
-weight = "1"
-[[menu.main]]
-URL = "audio"
-name = "Audio"
-weight = "3"
-[[menu.main]]
-URL = "video"
-name = "Video"
-weight = "2"
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = "4"
+name = "Performance Garten "
+url = "https://performancegarten.de"
+weight = 3
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = "5"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]

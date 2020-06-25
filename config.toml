@@ -32,7 +32,7 @@ home = "Home"
 layout = "1"
 logo = "images/logo.png"
 mobile = ""
-preloader = true
+preloader = false
 search = false
 [params.instafeed]
 access_token = ""

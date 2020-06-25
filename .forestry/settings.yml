@@ -5,6 +5,16 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/audio
+  label: Audio
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/video
+  label: Video
+  create: all
+  match: "**/*"
+- type: directory
   path: content/performance
   label: Performance
   create: all

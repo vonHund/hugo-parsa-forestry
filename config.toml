@@ -29,7 +29,7 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 address = "bla"
 author = "Raphael Di Canio "
-author_image = "images/logokto.png"
+author_image = "/images/logokto.png"
 bio = "blabla"
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 "

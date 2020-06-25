@@ -29,7 +29,7 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 address = "bla"
 author = "Raphael Di Canio "
-author_image = "/images/logokto.jpg"
+author_image = ""
 bio = "blabla"
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 "
@@ -38,7 +38,7 @@ email = "exmaple@ymail.com"
 google_analitycs_id = "Your ID"
 home = "Home_1"
 layout = "1"
-logo = "/images/okto-1.png"
+logo = "/images/logokto.png"
 mobile = ""
 preloader = true
 search = false

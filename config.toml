@@ -33,7 +33,7 @@ layout = "1"
 logo = "images/logo.png"
 mobile = "+90 000 333 22"
 preloader = true
-search = true
+search = false
 [params.instafeed]
 access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
 enable = true

@@ -27,12 +27,12 @@ weight = "5"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "bla"
+address = ""
 author = "Raphael Di Canio "
 author_image = ""
 bio = "blabla"
 contact_form_action = "#"
-copyright = "Copyright &copy; 2020 "
+copyright = "Raphael Di Canio &copy; 2020 "
 description = "This is meta description"
 email = "exmaple@ymail.com"
 google_analitycs_id = "Your ID"
